@@ -1,0 +1,198 @@
+﻿  Building Custom Rule E:/Builds/redis-plus-plus-1.3.12/test/CMakeLists.txt
+  test_main.cpp
+E:\Builds\hiredis\sds.h(55,10): warning C4200: nonstandard extension used: zero-sized array in struct/union
+E:\Builds\hiredis\sds.h(55,10): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+E:\Builds\hiredis\sds.h(61,10): warning C4200: nonstandard extension used: zero-sized array in struct/union
+E:\Builds\hiredis\sds.h(61,10): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+E:\Builds\hiredis\sds.h(67,10): warning C4200: nonstandard extension used: zero-sized array in struct/union
+E:\Builds\hiredis\sds.h(67,10): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+E:\Builds\hiredis\sds.h(73,10): warning C4200: nonstandard extension used: zero-sized array in struct/union
+E:\Builds\hiredis\sds.h(73,10): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+E:\Builds\hiredis\sds.h(79,10): warning C4200: nonstandard extension used: zero-sized array in struct/union
+E:\Builds\hiredis\sds.h(79,10): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+E:\Builds\redis-plus-plus-1.3.12\test\..\src\sw/redis++/patterns/redlock.h(262,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+E:\Builds\redis-plus-plus-1.3.12\test\src\sw\redis++\redlock_test.hpp(54,25): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\Builds\redis-plus-plus-1.3.12\test\src\sw\redis++\redlock_test.hpp(193,94): warning C4244: 'argument': conversion from '_Rep' to 'int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+E:\Builds\redis-plus-plus-1.3.12\test\src\sw\redis++\test_main.cpp(326,42): warning C4101: 'e': unreferenced local variable
+E:\Builds\redis-plus-plus-1.3.12\test\src\sw\redis++\test_main.cpp(329,40): warning C4101: 'e': unreferenced local variable
+E:\Builds\redis-plus-plus-1.3.12\test\src\sw\redis++\pipeline_transaction_test.hpp(245,43): warning C4101: 'err': unreferenced local variable
+E:\Builds\redis-plus-plus-1.3.12\test\src\sw\redis++\pipeline_transaction_test.hpp(209): message : while compiling class template member function 'void sw::redis::test::PipelineTransactionTest<sw::redis::RedisCluster>::_test_watch(void)'
+E:\Builds\redis-plus-plus-1.3.12\test\src\sw\redis++\pipeline_transaction_test.hpp(80): message : see reference to function template instantiation 'void sw::redis::test::PipelineTransactionTest<sw::redis::RedisCluster>::_test_watch(void)' being compiled
+E:\Builds\redis-plus-plus-1.3.12\test\src\sw\redis++\pipeline_transaction_test.hpp(30): message : while compiling class template member function 'void sw::redis::test::PipelineTransactionTest<sw::redis::RedisCluster>::run(void)'
+E:\Builds\redis-plus-plus-1.3.12\test\src\sw\redis++\test_main.cpp(440): message : see reference to function template instantiation 'void sw::redis::test::PipelineTransactionTest<sw::redis::RedisCluster>::run(void)' being compiled
+E:\Builds\redis-plus-plus-1.3.12\test\src\sw\redis++\test_main.cpp(116): message : see reference to function template instantiation 'void `anonymous-namespace'::run_test<sw::redis::RedisCluster>(const sw::redis::ConnectionOptions &,const `anonymous-namespace'::TestOptions &)' being compiled
+E:\Builds\redis-plus-plus-1.3.12\test\src\sw\redis++\pipeline_transaction_test.hpp(261,38): warning C4101: 'err': unreferenced local variable
+E:\Builds\redis-plus-plus-1.3.12\test\src\sw\redis++\pipeline_transaction_test.hpp(251): message : while compiling class template member function 'void sw::redis::test::PipelineTransactionTest<sw::redis::RedisCluster>::_test_error_handle(bool)'
+E:\Builds\redis-plus-plus-1.3.12\test\src\sw\redis++\pipeline_transaction_test.hpp(82): message : see reference to function template instantiation 'void sw::redis::test::PipelineTransactionTest<sw::redis::RedisCluster>::_test_error_handle(bool)' being compiled
+E:\Builds\redis-plus-plus-1.3.12\test\src\sw\redis++\keys_cmds_test.hpp(70,27): warning C4101: 'e': unreferenced local variable
+E:\Builds\redis-plus-plus-1.3.12\test\src\sw\redis++\keys_cmds_test.hpp(42): message : while compiling class template member function 'void sw::redis::test::KeysCmdTest<RedisInstance>::_test_key(void)'
+          with
+          [
+              RedisInstance=sw::redis::Redis
+          ]
+E:\Builds\redis-plus-plus-1.3.12\test\src\sw\redis++\keys_cmds_test.hpp(32): message : see reference to function template instantiation 'void sw::redis::test::KeysCmdTest<RedisInstance>::_test_key(void)' being compiled
+          with
+          [
+              RedisInstance=sw::redis::Redis
+          ]
+E:\Builds\redis-plus-plus-1.3.12\test\src\sw\redis++\keys_cmds_test.hpp(31): message : while compiling class template member function 'void sw::redis::test::KeysCmdTest<RedisInstance>::run(void)'
+          with
+          [
+              RedisInstance=sw::redis::Redis
+          ]
+E:\Builds\redis-plus-plus-1.3.12\test\src\sw\redis++\test_main.cpp(390): message : see reference to function template instantiation 'void sw::redis::test::KeysCmdTest<RedisInstance>::run(void)' being compiled
+          with
+          [
+              RedisInstance=sw::redis::Redis
+          ]
+E:\Builds\redis-plus-plus-1.3.12\test\src\sw\redis++\test_main.cpp(389): message : see reference to class template instantiation 'sw::redis::test::KeysCmdTest<RedisInstance>' being compiled
+          with
+          [
+              RedisInstance=sw::redis::Redis
+          ]
+E:\Builds\redis-plus-plus-1.3.12\test\src\sw\redis++\test_main.cpp(106): message : see reference to function template instantiation 'void `anonymous-namespace'::run_test<sw::redis::Redis>(const sw::redis::ConnectionOptions &,const `anonymous-namespace'::TestOptions &)' being compiled
+E:\Builds\redis-plus-plus-1.3.12\test\src\sw\redis++\keys_cmds_test.hpp(151,31): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+E:\Builds\redis-plus-plus-1.3.12\test\src\sw\redis++\keys_cmds_test.hpp(134): message : while compiling class template member function 'void sw::redis::test::KeysCmdTest<RedisInstance>::_test_scan(sw::redis::Redis &)'
+          with
+          [
+              RedisInstance=sw::redis::Redis
+          ]
+E:\Builds\redis-plus-plus-1.3.12\test\src\sw\redis++\keys_cmds_test.hpp(38): message : see reference to function template instantiation 'void sw::redis::test::KeysCmdTest<RedisInstance>::_test_scan(sw::redis::Redis &)' being compiled
+          with
+          [
+              RedisInstance=sw::redis::Redis
+          ]
+E:\Builds\redis-plus-plus-1.3.12\test\src\sw\redis++\hash_cmds_test.hpp(154,30): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+E:\Builds\redis-plus-plus-1.3.12\test\src\sw\redis++\hash_cmds_test.hpp(138): message : while compiling class template member function 'void sw::redis::test::HashCmdTest<RedisInstance>::_test_hscan(void)'
+          with
+          [
+              RedisInstance=sw::redis::Redis
+          ]
+E:\Builds\redis-plus-plus-1.3.12\test\src\sw\redis++\hash_cmds_test.hpp(38): message : see reference to function template instantiation 'void sw::redis::test::HashCmdTest<RedisInstance>::_test_hscan(void)' being compiled
+          with
+          [
+              RedisInstance=sw::redis::Redis
+          ]
+E:\Builds\redis-plus-plus-1.3.12\test\src\sw\redis++\hash_cmds_test.hpp(31): message : while compiling class template member function 'void sw::redis::test::HashCmdTest<RedisInstance>::run(void)'
+          with
+          [
+              RedisInstance=sw::redis::Redis
+          ]
+E:\Builds\redis-plus-plus-1.3.12\test\src\sw\redis++\test_main.cpp(405): message : see reference to function template instantiation 'void sw::redis::test::HashCmdTest<RedisInstance>::run(void)' being compiled
+          with
+          [
+              RedisInstance=sw::redis::Redis
+          ]
+E:\Builds\redis-plus-plus-1.3.12\test\src\sw\redis++\test_main.cpp(404): message : see reference to class template instantiation 'sw::redis::test::HashCmdTest<RedisInstance>' being compiled
+          with
+          [
+              RedisInstance=sw::redis::Redis
+          ]
+E:\Builds\redis-plus-plus-1.3.12\test\src\sw\redis++\hash_cmds_test.hpp(165,30): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+E:\Builds\redis-plus-plus-1.3.12\test\src\sw\redis++\zset_cmds_test.hpp(108,30): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+E:\Builds\redis-plus-plus-1.3.12\test\src\sw\redis++\zset_cmds_test.hpp(93): message : while compiling class template member function 'void sw::redis::test::ZSetCmdTest<RedisInstance>::_test_zscan(void)'
+          with
+          [
+              RedisInstance=sw::redis::Redis
+          ]
+E:\Builds\redis-plus-plus-1.3.12\test\src\sw\redis++\zset_cmds_test.hpp(36): message : see reference to function template instantiation 'void sw::redis::test::ZSetCmdTest<RedisInstance>::_test_zscan(void)' being compiled
+          with
+          [
+              RedisInstance=sw::redis::Redis
+          ]
+E:\Builds\redis-plus-plus-1.3.12\test\src\sw\redis++\zset_cmds_test.hpp(33): message : while compiling class template member function 'void sw::redis::test::ZSetCmdTest<RedisInstance>::run(void)'
+          with
+          [
+              RedisInstance=sw::redis::Redis
+          ]
+E:\Builds\redis-plus-plus-1.3.12\test\src\sw\redis++\test_main.cpp(415): message : see reference to function template instantiation 'void sw::redis::test::ZSetCmdTest<RedisInstance>::run(void)' being compiled
+          with
+          [
+              RedisInstance=sw::redis::Redis
+          ]
+E:\Builds\redis-plus-plus-1.3.12\test\src\sw\redis++\test_main.cpp(414): message : see reference to class template instantiation 'sw::redis::test::ZSetCmdTest<RedisInstance>' being compiled
+          with
+          [
+              RedisInstance=sw::redis::Redis
+          ]
+E:\Builds\redis-plus-plus-1.3.12\test\src\sw\redis++\threads_test.hpp(132,63): warning C4101: 'err': unreferenced local variable
+E:\Builds\redis-plus-plus-1.3.12\test\src\sw\redis++\threads_test.hpp(96): message : while compiling class template member function 'void sw::redis::test::ThreadsTest<RedisInstance>::_test_timeout(void)'
+          with
+          [
+              RedisInstance=sw::redis::Redis
+          ]
+E:\Builds\redis-plus-plus-1.3.12\test\src\sw\redis++\threads_test.hpp(46): message : see reference to function template instantiation 'void sw::redis::test::ThreadsTest<RedisInstance>::_test_timeout(void)' being compiled
+          with
+          [
+              RedisInstance=sw::redis::Redis
+          ]
+E:\Builds\redis-plus-plus-1.3.12\test\src\sw\redis++\threads_test.hpp(33): message : while compiling class template member function 'void sw::redis::test::ThreadsTest<RedisInstance>::run(void)'
+          with
+          [
+              RedisInstance=sw::redis::Redis
+          ]
+E:\Builds\redis-plus-plus-1.3.12\test\src\sw\redis++\test_main.cpp(446): message : see reference to function template instantiation 'void sw::redis::test::ThreadsTest<RedisInstance>::run(void)' being compiled
+          with
+          [
+              RedisInstance=sw::redis::Redis
+          ]
+E:\Builds\redis-plus-plus-1.3.12\test\src\sw\redis++\test_main.cpp(445): message : see reference to class template instantiation 'sw::redis::test::ThreadsTest<RedisInstance>' being compiled
+          with
+          [
+              RedisInstance=sw::redis::Redis
+          ]
+E:\Builds\redis-plus-plus-1.3.12\test\src\sw\redis++\benchmark_test.hpp(113,1): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+E:\Builds\redis-plus-plus-1.3.12\test\src\sw\redis++\benchmark_test.hpp(50): message : see reference to function template instantiation 'void sw::redis::test::BenchmarkTest<RedisInstance>::_run<sw::redis::test::BenchmarkTest<RedisInstance>::run::<lambda_0c26f693cdbd304d1b27dee46afb687c>>(const std::string &,Func &&)' being compiled
+          with
+          [
+              RedisInstance=sw::redis::Redis,
+              Func=sw::redis::test::BenchmarkTest<sw::redis::Redis>::run::<lambda_0c26f693cdbd304d1b27dee46afb687c>
+          ]
+E:\Builds\redis-plus-plus-1.3.12\test\src\sw\redis++\benchmark_test.hpp(50): message : see reference to function template instantiation 'void sw::redis::test::BenchmarkTest<RedisInstance>::_run<sw::redis::test::BenchmarkTest<RedisInstance>::run::<lambda_0c26f693cdbd304d1b27dee46afb687c>>(const std::string &,Func &&)' being compiled
+          with
+          [
+              RedisInstance=sw::redis::Redis,
+              Func=sw::redis::test::BenchmarkTest<sw::redis::Redis>::run::<lambda_0c26f693cdbd304d1b27dee46afb687c>
+          ]
+E:\Builds\redis-plus-plus-1.3.12\test\src\sw\redis++\benchmark_test.hpp(47): message : while compiling class template member function 'void sw::redis::test::BenchmarkTest<RedisInstance>::run(void)'
+          with
+          [
+              RedisInstance=sw::redis::Redis
+          ]
+E:\Builds\redis-plus-plus-1.3.12\test\src\sw\redis++\test_main.cpp(474): message : see reference to function template instantiation 'void sw::redis::test::BenchmarkTest<RedisInstance>::run(void)' being compiled
+          with
+          [
+              RedisInstance=sw::redis::Redis
+          ]
+E:\Builds\redis-plus-plus-1.3.12\test\src\sw\redis++\test_main.cpp(473): message : see reference to class template instantiation 'sw::redis::test::BenchmarkTest<RedisInstance>' being compiled
+          with
+          [
+              RedisInstance=sw::redis::Redis
+          ]
+E:\Builds\redis-plus-plus-1.3.12\test\src\sw\redis++\test_main.cpp(104): message : see reference to function template instantiation 'void `anonymous-namespace'::run_benchmark<sw::redis::Redis>(const sw::redis::ConnectionOptions &,const sw::redis::test::BenchmarkOptions &)' being compiled
+E:\Builds\redis-plus-plus-1.3.12\test\..\src\sw/redis++/reply.h(473,36): warning C4101: 'e': unreferenced local variable
+E:\Builds\redis-plus-plus-1.3.12\test\..\src\sw/redis++/redis.hpp(182): message : see reference to function template instantiation '__int64 sw::redis::reply::parse_scan_reply<Output>(redisReply &,Output)' being compiled
+          with
+          [
+              Output=std::insert_iterator<std::unordered_set<std::string,std::hash<std::string>,std::equal_to<std::string>,std::allocator<std::string>>>
+          ]
+E:\Builds\redis-plus-plus-1.3.12\test\src\sw\redis++\keys_cmds_test.hpp(151): message : see reference to function template instantiation '__int64 sw::redis::Redis::scan<std::insert_iterator<std::unordered_set<std::string,std::hash<std::string>,std::equal_to<std::string>,std::allocator<std::string>>>>(__int64,const sw::redis::StringView &,__int64,Output)' being compiled
+          with
+          [
+              Output=std::insert_iterator<std::unordered_set<std::string,std::hash<std::string>,std::equal_to<std::string>,std::allocator<std::string>>>
+          ]
+E:\Builds\redis-plus-plus-1.3.12\test\src\sw\redis++\keys_cmds_test.hpp(134): message : while compiling class template member function 'void sw::redis::test::KeysCmdTest<RedisInstance>::_test_scan(sw::redis::Redis &)'
+          with
+          [
+              RedisInstance=sw::redis::Redis
+          ]
+E:\Builds\redis-plus-plus-1.3.12\test\src\sw\redis++\keys_cmds_test.hpp(38): message : see reference to function template instantiation 'void sw::redis::test::KeysCmdTest<RedisInstance>::_test_scan(sw::redis::Redis &)' being compiled
+          with
+          [
+              RedisInstance=sw::redis::Redis
+          ]
+  test_redis++.vcxproj -> E:\Builds\redis-plus-plus-1.3.12\build\test\Release\test_redis++.exe

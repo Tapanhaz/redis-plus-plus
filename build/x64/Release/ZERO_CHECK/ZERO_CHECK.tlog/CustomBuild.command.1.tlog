@@ -1,0 +1,10 @@
+^E:\BUILDS\REDIS-PLUS-PLUS-1.3.12\BUILD\CMAKEFILES\5059CF59A50775CCAE3A856CF5B237F8\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SE:/Builds/redis-plus-plus-1.3.12 -BE:/Builds/redis-plus-plus-1.3.12/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file E:/Builds/redis-plus-plus-1.3.12/build/redis++.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

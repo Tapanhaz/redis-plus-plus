@@ -1,0 +1,203 @@
+﻿  Building Custom Rule E:/Builds/redis-plus-plus-1.3.12/CMakeLists.txt
+  command.cpp
+E:\Builds\hiredis\sds.h(55,10): warning C4200: nonstandard extension used: zero-sized array in struct/union
+E:\Builds\hiredis\sds.h(55,10): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+E:\Builds\hiredis\sds.h(61,10): warning C4200: nonstandard extension used: zero-sized array in struct/union
+E:\Builds\hiredis\sds.h(61,10): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+E:\Builds\hiredis\sds.h(67,10): warning C4200: nonstandard extension used: zero-sized array in struct/union
+E:\Builds\hiredis\sds.h(67,10): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+E:\Builds\hiredis\sds.h(73,10): warning C4200: nonstandard extension used: zero-sized array in struct/union
+E:\Builds\hiredis\sds.h(73,10): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+E:\Builds\hiredis\sds.h(79,10): warning C4200: nonstandard extension used: zero-sized array in struct/union
+E:\Builds\hiredis\sds.h(79,10): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+  command_options.cpp
+E:\Builds\hiredis\sds.h(55,10): warning C4200: nonstandard extension used: zero-sized array in struct/union
+E:\Builds\hiredis\sds.h(55,10): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+E:\Builds\hiredis\sds.h(61,10): warning C4200: nonstandard extension used: zero-sized array in struct/union
+E:\Builds\hiredis\sds.h(61,10): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+E:\Builds\hiredis\sds.h(67,10): warning C4200: nonstandard extension used: zero-sized array in struct/union
+E:\Builds\hiredis\sds.h(67,10): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+E:\Builds\hiredis\sds.h(73,10): warning C4200: nonstandard extension used: zero-sized array in struct/union
+E:\Builds\hiredis\sds.h(73,10): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+E:\Builds\hiredis\sds.h(79,10): warning C4200: nonstandard extension used: zero-sized array in struct/union
+E:\Builds\hiredis\sds.h(79,10): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+  connection.cpp
+E:\Builds\hiredis\sds.h(55,10): warning C4200: nonstandard extension used: zero-sized array in struct/union
+E:\Builds\hiredis\sds.h(55,10): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+E:\Builds\hiredis\sds.h(61,10): warning C4200: nonstandard extension used: zero-sized array in struct/union
+E:\Builds\hiredis\sds.h(61,10): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+E:\Builds\hiredis\sds.h(67,10): warning C4200: nonstandard extension used: zero-sized array in struct/union
+E:\Builds\hiredis\sds.h(67,10): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+E:\Builds\hiredis\sds.h(73,10): warning C4200: nonstandard extension used: zero-sized array in struct/union
+E:\Builds\hiredis\sds.h(73,10): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+E:\Builds\hiredis\sds.h(79,10): warning C4200: nonstandard extension used: zero-sized array in struct/union
+E:\Builds\hiredis\sds.h(79,10): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+E:\Builds\redis-plus-plus-1.3.12\src\sw\redis++\connection.cpp(153,25): warning C4244: '=': conversion from '_Rep' to 'long', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+E:\Builds\redis-plus-plus-1.3.12\src\sw\redis++\connection.cpp(154,27): warning C4244: '=': conversion from '_Rep' to 'long', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+  connection_pool.cpp
+E:\Builds\hiredis\sds.h(55,10): warning C4200: nonstandard extension used: zero-sized array in struct/union
+E:\Builds\hiredis\sds.h(55,10): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+E:\Builds\hiredis\sds.h(61,10): warning C4200: nonstandard extension used: zero-sized array in struct/union
+E:\Builds\hiredis\sds.h(61,10): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+E:\Builds\hiredis\sds.h(67,10): warning C4200: nonstandard extension used: zero-sized array in struct/union
+E:\Builds\hiredis\sds.h(67,10): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+E:\Builds\hiredis\sds.h(73,10): warning C4200: nonstandard extension used: zero-sized array in struct/union
+E:\Builds\hiredis\sds.h(73,10): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+E:\Builds\hiredis\sds.h(79,10): warning C4200: nonstandard extension used: zero-sized array in struct/union
+E:\Builds\hiredis\sds.h(79,10): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+  crc16.cpp
+  errors.cpp
+E:\Builds\hiredis\sds.h(55,10): warning C4200: nonstandard extension used: zero-sized array in struct/union
+E:\Builds\hiredis\sds.h(55,10): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+E:\Builds\hiredis\sds.h(61,10): warning C4200: nonstandard extension used: zero-sized array in struct/union
+E:\Builds\hiredis\sds.h(61,10): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+E:\Builds\hiredis\sds.h(67,10): warning C4200: nonstandard extension used: zero-sized array in struct/union
+E:\Builds\hiredis\sds.h(67,10): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+E:\Builds\hiredis\sds.h(73,10): warning C4200: nonstandard extension used: zero-sized array in struct/union
+E:\Builds\hiredis\sds.h(73,10): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+E:\Builds\hiredis\sds.h(79,10): warning C4200: nonstandard extension used: zero-sized array in struct/union
+E:\Builds\hiredis\sds.h(79,10): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+  pipeline.cpp
+E:\Builds\hiredis\sds.h(55,10): warning C4200: nonstandard extension used: zero-sized array in struct/union
+E:\Builds\hiredis\sds.h(55,10): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+E:\Builds\hiredis\sds.h(61,10): warning C4200: nonstandard extension used: zero-sized array in struct/union
+E:\Builds\hiredis\sds.h(61,10): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+E:\Builds\hiredis\sds.h(67,10): warning C4200: nonstandard extension used: zero-sized array in struct/union
+E:\Builds\hiredis\sds.h(67,10): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+E:\Builds\hiredis\sds.h(73,10): warning C4200: nonstandard extension used: zero-sized array in struct/union
+E:\Builds\hiredis\sds.h(73,10): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+E:\Builds\hiredis\sds.h(79,10): warning C4200: nonstandard extension used: zero-sized array in struct/union
+E:\Builds\hiredis\sds.h(79,10): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+  redis.cpp
+E:\Builds\hiredis\sds.h(55,10): warning C4200: nonstandard extension used: zero-sized array in struct/union
+E:\Builds\hiredis\sds.h(55,10): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+E:\Builds\hiredis\sds.h(61,10): warning C4200: nonstandard extension used: zero-sized array in struct/union
+E:\Builds\hiredis\sds.h(61,10): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+E:\Builds\hiredis\sds.h(67,10): warning C4200: nonstandard extension used: zero-sized array in struct/union
+E:\Builds\hiredis\sds.h(67,10): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+E:\Builds\hiredis\sds.h(73,10): warning C4200: nonstandard extension used: zero-sized array in struct/union
+E:\Builds\hiredis\sds.h(73,10): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+E:\Builds\hiredis\sds.h(79,10): warning C4200: nonstandard extension used: zero-sized array in struct/union
+E:\Builds\hiredis\sds.h(79,10): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+  redis_cluster.cpp
+E:\Builds\hiredis\sds.h(55,10): warning C4200: nonstandard extension used: zero-sized array in struct/union
+E:\Builds\hiredis\sds.h(55,10): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+E:\Builds\hiredis\sds.h(61,10): warning C4200: nonstandard extension used: zero-sized array in struct/union
+E:\Builds\hiredis\sds.h(61,10): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+E:\Builds\hiredis\sds.h(67,10): warning C4200: nonstandard extension used: zero-sized array in struct/union
+E:\Builds\hiredis\sds.h(67,10): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+E:\Builds\hiredis\sds.h(73,10): warning C4200: nonstandard extension used: zero-sized array in struct/union
+E:\Builds\hiredis\sds.h(73,10): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+E:\Builds\hiredis\sds.h(79,10): warning C4200: nonstandard extension used: zero-sized array in struct/union
+E:\Builds\hiredis\sds.h(79,10): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+  redis_uri.cpp
+E:\Builds\hiredis\sds.h(55,10): warning C4200: nonstandard extension used: zero-sized array in struct/union
+E:\Builds\hiredis\sds.h(55,10): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+E:\Builds\hiredis\sds.h(61,10): warning C4200: nonstandard extension used: zero-sized array in struct/union
+E:\Builds\hiredis\sds.h(61,10): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+E:\Builds\hiredis\sds.h(67,10): warning C4200: nonstandard extension used: zero-sized array in struct/union
+E:\Builds\hiredis\sds.h(67,10): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+E:\Builds\hiredis\sds.h(73,10): warning C4200: nonstandard extension used: zero-sized array in struct/union
+E:\Builds\hiredis\sds.h(73,10): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+E:\Builds\hiredis\sds.h(79,10): warning C4200: nonstandard extension used: zero-sized array in struct/union
+E:\Builds\hiredis\sds.h(79,10): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+  reply.cpp
+E:\Builds\hiredis\sds.h(55,10): warning C4200: nonstandard extension used: zero-sized array in struct/union
+E:\Builds\hiredis\sds.h(55,10): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+E:\Builds\hiredis\sds.h(61,10): warning C4200: nonstandard extension used: zero-sized array in struct/union
+E:\Builds\hiredis\sds.h(61,10): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+E:\Builds\hiredis\sds.h(67,10): warning C4200: nonstandard extension used: zero-sized array in struct/union
+E:\Builds\hiredis\sds.h(67,10): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+E:\Builds\hiredis\sds.h(73,10): warning C4200: nonstandard extension used: zero-sized array in struct/union
+E:\Builds\hiredis\sds.h(73,10): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+E:\Builds\hiredis\sds.h(79,10): warning C4200: nonstandard extension used: zero-sized array in struct/union
+E:\Builds\hiredis\sds.h(79,10): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+  sentinel.cpp
+E:\Builds\hiredis\sds.h(55,10): warning C4200: nonstandard extension used: zero-sized array in struct/union
+E:\Builds\hiredis\sds.h(55,10): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+E:\Builds\hiredis\sds.h(61,10): warning C4200: nonstandard extension used: zero-sized array in struct/union
+E:\Builds\hiredis\sds.h(61,10): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+E:\Builds\hiredis\sds.h(67,10): warning C4200: nonstandard extension used: zero-sized array in struct/union
+E:\Builds\hiredis\sds.h(67,10): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+E:\Builds\hiredis\sds.h(73,10): warning C4200: nonstandard extension used: zero-sized array in struct/union
+E:\Builds\hiredis\sds.h(73,10): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+E:\Builds\hiredis\sds.h(79,10): warning C4200: nonstandard extension used: zero-sized array in struct/union
+E:\Builds\hiredis\sds.h(79,10): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+  shards.cpp
+E:\Builds\hiredis\sds.h(55,10): warning C4200: nonstandard extension used: zero-sized array in struct/union
+E:\Builds\hiredis\sds.h(55,10): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+E:\Builds\hiredis\sds.h(61,10): warning C4200: nonstandard extension used: zero-sized array in struct/union
+E:\Builds\hiredis\sds.h(61,10): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+E:\Builds\hiredis\sds.h(67,10): warning C4200: nonstandard extension used: zero-sized array in struct/union
+E:\Builds\hiredis\sds.h(67,10): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+E:\Builds\hiredis\sds.h(73,10): warning C4200: nonstandard extension used: zero-sized array in struct/union
+E:\Builds\hiredis\sds.h(73,10): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+E:\Builds\hiredis\sds.h(79,10): warning C4200: nonstandard extension used: zero-sized array in struct/union
+E:\Builds\hiredis\sds.h(79,10): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+E:\Builds\redis-plus-plus-1.3.12\src\sw\redis++\shards.cpp(45,36): warning C4101: 'e': unreferenced local variable
+  shards_pool.cpp
+E:\Builds\hiredis\sds.h(55,10): warning C4200: nonstandard extension used: zero-sized array in struct/union
+E:\Builds\hiredis\sds.h(55,10): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+E:\Builds\hiredis\sds.h(61,10): warning C4200: nonstandard extension used: zero-sized array in struct/union
+E:\Builds\hiredis\sds.h(61,10): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+E:\Builds\hiredis\sds.h(67,10): warning C4200: nonstandard extension used: zero-sized array in struct/union
+E:\Builds\hiredis\sds.h(67,10): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+E:\Builds\hiredis\sds.h(73,10): warning C4200: nonstandard extension used: zero-sized array in struct/union
+E:\Builds\hiredis\sds.h(73,10): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+E:\Builds\hiredis\sds.h(79,10): warning C4200: nonstandard extension used: zero-sized array in struct/union
+E:\Builds\hiredis\sds.h(79,10): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+  subscriber.cpp
+E:\Builds\hiredis\sds.h(55,10): warning C4200: nonstandard extension used: zero-sized array in struct/union
+E:\Builds\hiredis\sds.h(55,10): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+E:\Builds\hiredis\sds.h(61,10): warning C4200: nonstandard extension used: zero-sized array in struct/union
+E:\Builds\hiredis\sds.h(61,10): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+E:\Builds\hiredis\sds.h(67,10): warning C4200: nonstandard extension used: zero-sized array in struct/union
+E:\Builds\hiredis\sds.h(67,10): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+E:\Builds\hiredis\sds.h(73,10): warning C4200: nonstandard extension used: zero-sized array in struct/union
+E:\Builds\hiredis\sds.h(73,10): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+E:\Builds\hiredis\sds.h(79,10): warning C4200: nonstandard extension used: zero-sized array in struct/union
+E:\Builds\hiredis\sds.h(79,10): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+  transaction.cpp
+E:\Builds\hiredis\sds.h(55,10): warning C4200: nonstandard extension used: zero-sized array in struct/union
+E:\Builds\hiredis\sds.h(55,10): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+E:\Builds\hiredis\sds.h(61,10): warning C4200: nonstandard extension used: zero-sized array in struct/union
+E:\Builds\hiredis\sds.h(61,10): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+E:\Builds\hiredis\sds.h(67,10): warning C4200: nonstandard extension used: zero-sized array in struct/union
+E:\Builds\hiredis\sds.h(67,10): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+E:\Builds\hiredis\sds.h(73,10): warning C4200: nonstandard extension used: zero-sized array in struct/union
+E:\Builds\hiredis\sds.h(73,10): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+E:\Builds\hiredis\sds.h(79,10): warning C4200: nonstandard extension used: zero-sized array in struct/union
+E:\Builds\hiredis\sds.h(79,10): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+  redlock.cpp
+E:\Builds\hiredis\sds.h(55,10): warning C4200: nonstandard extension used: zero-sized array in struct/union
+E:\Builds\hiredis\sds.h(55,10): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+E:\Builds\hiredis\sds.h(61,10): warning C4200: nonstandard extension used: zero-sized array in struct/union
+E:\Builds\hiredis\sds.h(61,10): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+E:\Builds\hiredis\sds.h(67,10): warning C4200: nonstandard extension used: zero-sized array in struct/union
+E:\Builds\hiredis\sds.h(67,10): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+E:\Builds\hiredis\sds.h(73,10): warning C4200: nonstandard extension used: zero-sized array in struct/union
+E:\Builds\hiredis\sds.h(73,10): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+E:\Builds\hiredis\sds.h(79,10): warning C4200: nonstandard extension used: zero-sized array in struct/union
+E:\Builds\hiredis\sds.h(79,10): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+E:\Builds\redis-plus-plus-1.3.12\src\sw/redis++/patterns/redlock.h(262,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  tls.cpp
+E:\Builds\hiredis\sds.h(55,10): warning C4200: nonstandard extension used: zero-sized array in struct/union
+E:\Builds\hiredis\sds.h(55,10): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+E:\Builds\hiredis\sds.h(61,10): warning C4200: nonstandard extension used: zero-sized array in struct/union
+E:\Builds\hiredis\sds.h(61,10): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+E:\Builds\hiredis\sds.h(67,10): warning C4200: nonstandard extension used: zero-sized array in struct/union
+E:\Builds\hiredis\sds.h(67,10): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+E:\Builds\hiredis\sds.h(73,10): warning C4200: nonstandard extension used: zero-sized array in struct/union
+E:\Builds\hiredis\sds.h(73,10): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+E:\Builds\hiredis\sds.h(79,10): warning C4200: nonstandard extension used: zero-sized array in struct/union
+E:\Builds\hiredis\sds.h(79,10): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+  Generating Code...
+  redis++_static.vcxproj -> E:\Builds\redis-plus-plus-1.3.12\build\Release\redis++_static.lib
